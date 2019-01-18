@@ -4,3 +4,7 @@
 answers
 .hg
 .idea
+
+venv/
+.vscode/
+python2/
